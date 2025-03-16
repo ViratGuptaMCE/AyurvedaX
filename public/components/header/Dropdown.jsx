@@ -65,7 +65,7 @@ export function DropDown() {
                 <NavigationMenuLink asChild>
                   <a
                     className="flex h-full w-full select-none flex-col justify-end rounded-md bg-gradient-to-b from-muted/50 to-muted p-6 no-underline outline-none focus:shadow-md"
-                    href="/"
+                    href="/diagnosis"
                   >
                     <div className="mb-2 font-semibold mt-4 text-lg">
                       AI Driven Diagnosis
